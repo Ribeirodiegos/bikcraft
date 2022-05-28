@@ -1,0 +1,27 @@
+NOTAS DIARIAS DO PROJETO
+
+O intuito desse arquivo é tentar documentar notas diárias dos seguintes tópicos:
+
+=> Oque foi feito no código hoje ?
+
+=> Quais erros você achou para arrumar amanha?
+
+=> Os erros de ontem foram corrigidos ?
+
+Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter subgrupos para melhor resolução .
+
+=================================\\\\\\\\\\\\\\\================================
+
+DIA 28/05/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Adicionado tipografia certa do projeto usando o google fonts;
+    2- Organizado o CSS em vários arquivos separados para diminuir a quantidade de código css, com isso, foi criado pastas e paginas novas.
+    3- Criado classes para cores e tipos de texto (txt-grande e txt-medio), usando o metodo de :root no CSS. Ainda não entendi completamente a técnica, então fiz devagar e prestando atenção e percebi que no cenário onde temos as cores e fontes decididos previamente no projeto, esse processo de :root e criação de classe é mais eficaz se for feito no começo, antes de começar a codar.
+
+=> Quais erros você achou para arrumar amanha?
+R.: Sem erros encontrados.
+
+=> Os erros de ontem foram corrigidos ?
+R.: 1- As cores do .botao:hover foram corrigidas para o tom certo.
+    2- Encontrei uma forma de documentar os aprimoramentos dos estudos, no caso esse arquivo, porem é uma solução temporária.
