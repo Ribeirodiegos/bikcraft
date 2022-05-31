@@ -12,6 +12,22 @@ Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter 
 
 =================================\\\\\\\\\\\\\\\================================
 
+DIA 30/05/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Finalizei a parte de introdução do site.
+    2- Comecei a lista principal
+    3- Passei alguns estilos de fontes para o modelo utilitário, com isso percebi que quanto mais tarde no projeto vc faz isso, mais trabalhoso é.
+
+=> Quais erros você achou para arrumar amanha?
+R.: Sem erros encontrados.
+
+=> Os erros de ontem foram corrigidos ?
+R.: 1- Somente a separação de fontes para modelo utilitário.
+
+
+=================================\\\\\\\\\\\\\\\================================
+
 DIA 28/05/2022
 
 => Oque foi feito no código hoje ?
