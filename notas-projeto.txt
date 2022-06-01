@@ -12,6 +12,26 @@ Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter 
 
 =================================\\\\\\\\\\\\\\\================================
 
+DIA 31/05/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Responsividade da lista de imagens da pagina principal
+        1.1- Configuração da scrollbar
+    2- Criação da classe container e ajustes no HTML para troca de classes.
+        Obs.: Cada vez mais percebo a importancia da criação das classes utilitarias o quanto antes, se possivel até mesmo no inicio do projeto, pois apesar de ser muito eficiente de se usar, perde-se muito tempo trocando e ajustando as classes depois que o codigo atinge um certo tamanho.
+    3- Criação da parte de conteudo de tecnologia do produto.
+        3.1- Adicionado responsividade ao conteudo, ja usando o modelo de container.
+    4- Adicionado a tabela de parceiros a pagina principal.
+        4.1- Adicionado responsividade ao conteudo, ja usando o modelo de container.
+        
+=> Quais erros você achou para arrumar amanha?
+R.: Sem erros encontrados.
+
+=> Os erros de ontem foram corrigidos ?
+R.: Sem erros para corrigir.
+
+=================================\\\\\\\\\\\\\\\================================
+
 DIA 30/05/2022
 
 => Oque foi feito no código hoje ?
