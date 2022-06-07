@@ -12,6 +12,20 @@ Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter 
 
 =================================\\\\\\\\\\\\\\\================================
 
+DIA 06/06/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Adicionado a parte de depoimentos do site, com imagem, comentario e detalhes.
+    2- Adicionado o responsivo ao "depoimentos".
+    3- Corrigido a imagem dos parceiros que estava ficando muito pequena no responsivo.
+        
+=> Quais erros você achou para arrumar amanha?
+R.: Sem erros encontrados.
+
+=> Os erros de ontem foram corrigidos ?
+R.: Sem erros para corrigir.
+=================================\\\\\\\\\\\\\\\================================
+
 DIA 31/05/2022
 
 => Oque foi feito no código hoje ?
