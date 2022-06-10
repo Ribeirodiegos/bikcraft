@@ -12,6 +12,22 @@ Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter 
 
 =================================\\\\\\\\\\\\\\\================================
 
+DIA 09/06/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Adicionado a parte de seguros
+     1.1- Estilizado as duas box com a lista de itens de cada seguro.
+    2- Adicionado footer com links de contato e informações.
+    3- Foi feito a parte de responsiva das duas ultimas partes adicionadas anteriormente.
+
+=> Quais erros você achou para arrumar amanha?
+R.: Botão "Escolha um modelo" na area de tecnologia esta sem forma de botao.
+
+=> Os erros de ontem foram corrigidos ?
+R.: Sem erros para corrigir.
+
+=================================\\\\\\\\\\\\\\\================================
+
 DIA 06/06/2022
 
 => Oque foi feito no código hoje ?
