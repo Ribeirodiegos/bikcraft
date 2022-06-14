@@ -12,6 +12,23 @@ Essas 3 perguntas devem ser respondidas todos os dias e se necessário pode ter 
 
 =================================\\\\\\\\\\\\\\\================================
 
+DIA 13/06/2022
+
+=> Oque foi feito no código hoje ?
+R.: 1- Adicionado mais duas paginas:
+     1.1- Pagina de termos
+     1.2- Pagina de bicicletas (incompleta)
+    2- Foi criado um estilo padrão de cabeçalho para ser usado nas outras paginas do site.
+    3- Adicionado o responsivo da pagina de termos
+    
+=> Quais erros você achou para arrumar amanha?
+R.: 1- Conteudo do "Termos e Condições"não está alinhando ao centro quando expandido.
+    2- A forma com que eu tenho tentado estudar esta me trazendo dificuldades com relação a sobrecarga, por isso decidi que preciso esquematizar uma rotina de horários para estudos pensando nisso. 
+
+=> Os erros de ontem foram corrigidos ?
+R.: Sem erros para corrigidos.
+=================================\\\\\\\\\\\\\\\================================
+
 DIA 09/06/2022
 
 => Oque foi feito no código hoje ?
