@@ -23,6 +23,7 @@
 .contato-formulario {
   border-radius: 0 5px 5px 0;
   background: var(--cor-0);
+  padding: 20px;
 }
 
 .contato-dados h2 {
