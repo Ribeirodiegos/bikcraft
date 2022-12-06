@@ -18,6 +18,9 @@
   <link rel="preload" href="./css/style.css" as="style">
   <link rel="stylesheet" href="./css/style.css">
   <meta name="description" content="Bicicletas de qualidade feitas sob medida para o cliente. Explore o mundo na sua velocidade com Bikcraft.">
+
+
+  <script>document.documentElement.classList.add('js');</script>
 </head>
 
 <body>
@@ -37,12 +40,12 @@
   <main class="introducao-bg">
     <div class="introducao container">
       <div class="introducao-conteudo">
-        <h1 class="font-1-xxl">Bicicletas feitas sob medida<span>.</span></h1>
-        <p class="font-2-l">Bicicletas de qualidade feitas sob medida para o cliente. Explore o mundo na sua velocidade com Bikcraft.</p>
-        <a class="botao" href="./bicicletas.html">Escolha a sua</a>
+        <h1 class="font-1-xxl fadeInDown" data-anime="200">Bicicletas feitas sob medida<span>.</span></h1>
+        <p class="font-2-l fadeInDown" data-anime="400">Bicicletas de qualidade feitas sob medida para o cliente. Explore o mundo na sua velocidade com Bikcraft.</p>
+        <a class="botao fadeInDown" data-anime="600" href="./bicicletas.html">Escolha a sua</a>
       </div>
 
-      <picture>
+      <picture data-anime="800" class="fadeInDown">
         <source media="(max-width:800px)" srcset="./img/bicicletas/nimbus.jpg">
         <img src="./img/fotos/introducao.jpg" alt="Bicicleta preta" width="1280" height="1600">
       </picture>
@@ -207,6 +210,7 @@
     </div>
   </footer>
 
+  <script src="./js/plugins/simple-anime.js"></script>
   <script src="./js/script.js"></script>
 </body>
 
